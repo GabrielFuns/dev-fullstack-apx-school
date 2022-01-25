@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Marce",
+    "edad": 33,
+    "cosas": [1, 2, 333]
+  },
+  {
+    "nombre": "Persona1",
+    "edad": 25,
+    "cosas": [3, 5, 666]
+  },
+  {
+    "nombre": "Persona2",
+    "edad": 39,
+    "cosas": [7, 8, 999]
+  }
+]

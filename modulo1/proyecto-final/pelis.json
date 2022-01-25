@@ -1,0 +1,37 @@
+[
+  {
+    "title": "No miren arriba",
+    "rating": 4,
+    "tags": ["comedia", "favorita", "nueva"]
+  },
+  {
+    "title": "Encanto",
+    "rating": 3,
+    "tags": ["comedia", "favorita", "nueva"]
+  },
+  {
+    "title": "The Lost Daughter",
+    "rating": 5,
+    "tags": ["Drama", "nueva"]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "rating": 2,
+    "tags": ["accion", "nueva"]
+  },
+  {
+    "title": "Matrix Resurrections",
+    "rating": 1,
+    "tags": ["accion", "favorita", "nueva"]
+  },
+  {
+    "title": "Titulo de la segunda película",
+    "rating": 4,
+    "tags": ["terror", "favorita", "nueva"]
+  },
+  {
+    "title": "V de la segunda película",
+    "rating": 5,
+    "tags": ["terror", "favorita", "nueva"]
+  }
+]
