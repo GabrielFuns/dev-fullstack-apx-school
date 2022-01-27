@@ -1,0 +1,25 @@
+{
+  "name": "clase-7-tests-con-ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ava"
+  },
+  "ava": {
+    "timeout": "1m",
+    "extensions": {
+      "ts": "module"
+    },
+    "nodeArguments": [
+      "--loader=ts-node/esm"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
